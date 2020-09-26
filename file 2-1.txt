@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+lol
+=======
+lol
+
+update to 2-1
+>>>>>>> branch-2-1
